@@ -7,6 +7,7 @@ body{
   position: relative;
   padding-top: 100px;
 }
+
 p{
   line-height: 2;
 }
@@ -30,9 +31,6 @@ hr{
   padding: 50px 0 20px;
   margin-top: 50px;
 }
-.WebDev-Description{
-  padding-left: 150px;
-}
 
 a{
   color: #11999e;
@@ -40,15 +38,28 @@ a{
   margin: 10px 20px;
   text-decoration: none;
 }
+
 a:hover{
   color: #EAF6F6;
 }
 
+.WebDev-Description{
+  padding-left: 150px;
+}
+
+.FullStack{
+  padding-left: 150px;
+}
+
 .WebDev{
+
     border-radius: 250px;
     width: 25%;
     float:left;
     margin-right: 25px;
+    height: 10%;
+    display: inline;
+
    }
 
   .Football{
@@ -146,7 +157,13 @@ h3 {
   top: 1px;
 }
 .Copyright{
-  color: #EAF6F6;
+  color: #132743;
   font-size: 0.75rem;
   padding: 20 0;
+}
+.footer-link{
+  color: #132743
+}
+.twitter-link{
+  color: #132743
 }
